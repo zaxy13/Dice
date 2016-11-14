@@ -1,0 +1,38 @@
+html {
+    padding: 0;
+    margin: 0;
+}
+body {
+    background-color: cadetblue;
+    font-family: sans-serif;
+}
+
+#mat {
+    display: flex;
+}
+
+.die {
+    background-size: 100px 100px;
+    background-repeat: no-repeat;
+    height: 100px;
+    width: 100px;
+}
+
+.one {
+    background-image: url(../IMG/Style/Default/one.png);
+}
+.two {
+    background-image: url(../IMG/Style/Default/two.png);
+}
+.three {
+    background-image: url(../IMG/Style/Default/three.png);
+}
+.four {
+    background-image: url(../IMG/Style/Default/four.png);
+}
+.five {
+    background-image: url(../IMG/Style/Default/five.png);
+}
+.six {
+    background-image: url(../IMG/Style/Default/six.png);
+}
